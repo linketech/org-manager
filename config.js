@@ -1,5 +1,5 @@
 module.exports = {
-	port: 13370,
+	port: 1337,
 	appId: 'APP_ID',
 	javascriptKey: 'JAVASCRIPT_KEY',
 	databaseURI: 'mongodb://localhost:27017/parse-server',
